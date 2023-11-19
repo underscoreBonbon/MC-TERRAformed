@@ -1,0 +1,20 @@
+THIS IS AN URGENT UPDATE!!!
+
+ 
+
+Minecraft: TERRAformed
+
+ 
+
+This patch was done after further testing of the server pack, and this patch NEEDED to be out!!!!
+
+Sorry for the inconvience!
+
+
+Update 1.1.1 Changelog:
+
+ 
+
+> Updated Combatify to 1.7.8 Release Canidate 6 to combat "Attempt to attack invalid entity" happening server-side (no pun intended)
+> Updated Placebo, CraftTweaker, and Chat Heads.
+> Removed MoonlightLIB
