@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
+    
      {
         "id": "1.0.0",
         "releasedAt": 1698462778000,
@@ -11,6 +12,7 @@
             }
         }
     },
+    
       {
         "id": "1.0.0h",
         "releasedAt": 1698508536000,
@@ -20,9 +22,18 @@
             }
         }
     },
-          {
+        {
         "id": "1.1.0",
         "releasedAt": 1700357906000,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/the-terraformed-modpack-bon/"
+            }
+        }
+    },
+        {
+        "id": "1.1.1",
+        "releasedAt": 1700412656000,
         "promotions": {
             "downloads": {
                 "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/the-terraformed-modpack-bon/"
