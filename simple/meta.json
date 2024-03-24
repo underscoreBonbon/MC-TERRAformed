@@ -39,6 +39,15 @@
                 "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/the-terraformed-modpack-bon/"
             }
         }
-    }
+    },
+     {
+        "id": "2.0.0",
+        "releasedAt": 1711158919000,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/mc-terraformed"
+            }
+        }
+    },
   ]
 }
