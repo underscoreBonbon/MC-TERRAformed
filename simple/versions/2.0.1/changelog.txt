@@ -1,0 +1,3 @@
+TERRAformed Small patch.
+
+- Allowed trees to be punched again since FallingTree hates me
